@@ -1,0 +1,90 @@
+{
+"frames": {
+	"button_back1.png": {
+		"frame": {"x":109, "y":0, "w":87, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_back2.png": {
+		"frame": {"x":197, "y":0, "w":87, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_credits1.png": {
+		"frame": {"x":193, "y":94, "w":87, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_credits2.png": {
+		"frame": {"x":183, "y":398, "w":87, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_moregames1.png": {
+		"frame": {"x":0, "y":329, "w":94, "h":100},
+		"spriteSourceSize": {"x":4,"y":4,"w":107,"h":113},
+		"sourceSize": {"w":107,"h":113}
+	},
+	"button_moregames2.png": {
+		"frame": {"x":0, "y":228, "w":94, "h":100},
+		"spriteSourceSize": {"x":4,"y":4,"w":107,"h":113},
+		"sourceSize": {"w":107,"h":113}
+	},
+	"button_next1.png": {
+		"frame": {"x":0, "y":0, "w":108, "h":115},
+		"spriteSourceSize": {"x":2,"y":2,"w":118,"h":124},
+		"sourceSize": {"w":118,"h":124}
+	},
+	"button_next2.png": {
+		"frame": {"x":0, "y":116, "w":104, "h":111},
+		"spriteSourceSize": {"x":4,"y":4,"w":118,"h":124},
+		"sourceSize": {"w":118,"h":124}
+	},
+	"button_random1.png": {
+		"frame": {"x":95, "y":416, "w":87, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_random2.png": {
+		"frame": {"x":183, "y":210, "w":87, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_soundoff1.png": {
+		"frame": {"x":105, "y":116, "w":87, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_soundoff2.png": {
+		"frame": {"x":95, "y":322, "w":87, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_soundon1.png": {
+		"frame": {"x":95, "y":228, "w":87, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_soundon2.png": {
+		"frame": {"x":183, "y":304, "w":87, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_tasklist1.png": {
+		"frame": {"x":281, "y":94, "w":86, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	},
+	"button_tasklist2.png": {
+		"frame": {"x":271, "y":188, "w":86, "h":93},
+		"spriteSourceSize": {"x":4,"y":4,"w":100,"h":106},
+		"sourceSize": {"w":100,"h":106}
+	}
+
+},
+"meta": {
+	"image": "button.png",
+	"size": {"w": 512, "h": 512},
+	"scale": "1"
+}
+}
